@@ -70,7 +70,7 @@ export default function HeroSection() {
 
                   <Image
                     className="rounded-(--radius) z-1 relative border dark:hidden"
-                    src="/card.png"
+                    src="/card.webp"
                     alt="tailus ui hero section"
                     width={2880}
                     height={2074}
