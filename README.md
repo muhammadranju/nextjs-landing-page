@@ -34,4 +34,5 @@ pnpm run dev
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/nextjs-landing-page/nextjs-landing-page/assets/10670474/f5a7f6e8-a5e0-4f9b-b6c1-f4c6d8d4d6f7)
+![Screenshot 1](./public/dark.jpeg)
+![Screenshot 2](./public/light.jpeg)
